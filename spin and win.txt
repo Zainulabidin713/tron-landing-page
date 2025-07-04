@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Win 1000 TRX</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      text-align: center;
+      font-family: sans-serif;
+      background-color: #f2f2f2;
+      padding: 50px;
+    }
+    .box {
+      background: #fff;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+    .spin-btn {
+      background: green;
+      color: white;
+      padding: 15px 30px;
+      border: none;
+      font-size: 18px;
+      border-radius: 10px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>🎉 Spin & Win 1000 TRX!</h2>
+    <p>Try your luck and earn free Tron tokens.</p>
+    <button class="spin-btn" onclick="window.location.href='https://tronminingfarm.com/?ref=zainulabidin18'">Spin Now</button>
+  </div>
+</body>
+</html>
